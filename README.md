@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Leonardo Junkes
 
 <img src="https://avatars0.githubusercontent.com/u/61796216?s=460&u=371fd711c010580aaa7ffed41e96c9d8230f1eb4&v=4">
@@ -10,3 +11,21 @@ E-mail - leojn8@gmail.com
 
 
 
+=======
+### Hi there 👋
+
+<!--
+**Leojunkes/Leojunkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> d0018c63f89b158629976823ae2ea9f29c0864d4
