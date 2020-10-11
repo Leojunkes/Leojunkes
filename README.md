@@ -1,7 +1,7 @@
 
 # Hi, I'm Leonardo Junkes 
 
-<img src="/src/icones/coffe.png" /> | <img src="/src/icones/pc.png"/> | <img src="/src/icones/code.png"/>
+<img width="20" src="/src/icones/coffe.png" />  <img width="20" src="/src/icones/pc.png"/>  <img width="20" src="/src/icones/code.png"/>
 
 <p align="center">
 <img width="200" src="/leo.jpg" style="border-radius:10"/>
