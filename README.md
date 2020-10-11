@@ -4,7 +4,7 @@
    
 
 <p>
-<img width="220" src="/leo.jpg"/><img width="80%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
+<img width="220" src="/leo.jpg"/><img width="70%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
 </p>
 Eu sou estudante de tecnologia, desde sempre apaixonado por este assunto, mas estudei administração , trabalhei no comércio por um longo período, e somente após os 33 anos de idade descobri e entrei nesse maravilhoso mundo da programação. Tenho um filho lindo e não é nada fácil estudar, trabalhar e ser um excelente pai(me cobro muito para isso), Angular, React, JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy, e mais recentemente um projeto realizado do zero em React e React-native, tanto a parte de Frontend e também backend pela RocktSeat fazem parte dessa preparação.
 
