@@ -1,7 +1,7 @@
 
 # Hi, I'm Leonardo Junkes
 <p align="center">
-<img src="/leo.jpg"/>
+<img width="150" src="/leo.jpg"/>
 </p>
 Eu sou estudante de tecnologia, desde sempre apaixonado por este assunto, mas estudei administração , trabalhei no comércio por um longo período, e somente após os 33 anos de idade descobri e entrei nesse maravilhoso mundo da programação. Tenho um filho lindo e não é nada fácil estudar, trabalhar e ser um excelente pai(me cobro muito para isso), Angular, React, JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy, e mais recentemente um projeto realizado do zero em React e React-native, tanto a parte de Frontend e também backend pela RocktSeat fazem parte dessa preparação.
 
