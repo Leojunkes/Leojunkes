@@ -1,5 +1,5 @@
 
-# Hi, I'm Leonardo Junkes 
+# Hi, I'm Leonardo Junkes <img width="20" src="/src/icones/coffe.png" />
 
 <img width="20" src="/src/icones/coffe.png" />  <img width="20" src="/src/icones/pc.png"/>  <img width="20" src="/src/icones/code.png"/>
 
