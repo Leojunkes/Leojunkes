@@ -6,13 +6,8 @@
 <p>
 <img width="200" src="/leo.jpg"/><img width="70%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
 </p>
-Eu sou estudante de tecnologia, desde sempre apaixonado por este assunto, mas estudei administração , trabalhei no comércio por um longo período, e somente após os 33 anos de idade descobri e entrei nesse maravilhoso mundo da programação. Tenho um filho lindo e não é nada fácil estudar, trabalhar e ser um excelente pai(me cobro muito para isso), Angular, React, JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy, e mais recentemente um projeto realizado do zero em React e React-native, tanto a parte de Frontend e também backend pela RocktSeat fazem parte dessa preparação.
-
-#### Confesso que não sou adepto e consumidor ativo das redes sociais, mas tendo interesse em me achar no [Linkedin](https://www.linkedin.com/in/leonardo-junkes-nicolodelli-88089866/).
-
-E-mail - leojn8@gmail.com
-
-
+Eu sou estudante de tecnologia, desde sempre apaixonado por este assunto, mas estudei administração , trabalhei no comércio por um longo período, e somente apósos 33 anos de idade descobri e entrei nesse maravilhoso mundo da programação.
+Angular, React,React-Native, JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy, e um projeto realizado do zero em React e React-native, tanto a parte de Frontend e também backend pela RocktSeat chamado de Proffy, e mais recentemente criei um App de memorização do alfabeto Japonês, confesso que não sou adepto e consumidor ativo das redes sociais, mas tendo interesse em me achar no [Linkedin](https://www.linkedin.com/in/leonardo-junkes-nicolodelli-88089866/).
 
 
 
@@ -21,13 +16,14 @@ E-mail - leojn8@gmail.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working as a driver.
+- 🌱 I’m currently learning React-Js and React-Native (Js).
+- 👯 I’m looking to collaborate on some projects.
+- 🤔 I’m looking for help with my studies.
+- 💬 Ask me about whatever you want.
+- 📫 How to reach me: email - leojn8@gmail.com
+			    - [Linkedin](https://www.linkedin.com/in/leonardo-junkes-nicolodelli-88089866/).
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Today 36 years old, and I Love playing video games.
 -->
 
