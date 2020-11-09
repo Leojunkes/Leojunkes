@@ -4,7 +4,7 @@
    
 
 <p>
-<img width="200" src="/leo.jpg"/><img width="688888888%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
+<img width="200" src="/leo.jpg"/><img width="68%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
 </p>
  Eu sou estudante de tecnologia, desde sempre apaixonado por este assunto, mas estudei administração , trabalhei no comércio por um longo período, e somente apósos 33 anos de idade descobri e entrei nesse maravilhoso mundo da programação.
 Angular, React,React-Native, JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy, e um projeto realizado do zero em React e React-native, tanto a parte de Frontend e também backend pela RocktSeat chamado de Proffy, e mais recentemente criei um App de memorização do alfabeto Japonês, confesso que não sou adepto e consumidor de redes sociais, abaixo detalhes de onde me encontrar: 
