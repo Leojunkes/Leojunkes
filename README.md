@@ -21,7 +21,7 @@ Angular, React,React-Native, JS TDD, Git & Github estão entre os assuntos e cur
 
 ⚡ Fun fact: Today 36 years old, and I Love playing video games.
 
-
+![](https://komarev.com/ghpvc/?username=Leojunkes&style=flat-square&color=blueviolet)
 
 
 <!--
