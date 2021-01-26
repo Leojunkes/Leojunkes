@@ -10,16 +10,16 @@
 Angular, React,React-Native, JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy, e um projeto realizado do zero em React e React-native, tanto a parte de Frontend e também backend pela RocktSeat chamado de Proffy, e mais recentemente criei um App de memorização do alfabeto Japonês, confesso que não sou adepto e consumidor de redes sociais, abaixo detalhes de onde me encontrar: 
 
 
-🔭 I’m currently working as a driver.
+🔭 No momento trabalho como motorista de aplicativo.
 
-🌱 I’m currently learning React-Js and React-Native (Js).
+🌱 Estudando React-Js and React-Native (Js).
 
-👯 I’m looking to collaborate on some projects.
+👯 Quero uma oportunidade na área de tecnologia e ajudar em projetos.
 
-📫 How to reach me: email - leojn8@gmail.com
+📫 Onde me encontrar: email - leojn8@gmail.com
                           - [Linkedin](https://www.linkedin.com/in/leonardo-junkes-nicolodelli-88089866/).
 
-⚡ Fun fact: Today 36 years old, and I Love playing video games.
+⚡ Fato engraçado: hoje com 36 anos, e adoro jogar video game.
 
 ![](https://komarev.com/ghpvc/?username=Leojunkes&style=flat-square&color=blueviolet)
 
