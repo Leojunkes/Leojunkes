@@ -10,6 +10,7 @@
  React,React-Native,Next-Js, Chakra-ui, Vercel, Node-ts JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy,RocketSeat e alguns projetos realizados do zero em React-Js com Next-js juntamente com a galera da RocketSeat,criei um CRUD completo tanto o backend como o frontend, uma aplicação de cadastro de empresas e contatos para as mesmas,React-native criei um quizz de memorização de caracteres japonês, muito mais trabalhos e estudos encontras aqui mesmo no github, da uma 'fuçada' ai, confesso que não sou adepto e consumidor de redes sociais, abaixo detalhes de onde me encontrar: 
 
 
+<br>
 🔭 Atualmente estou trabalhando como motorista.
 
 🌱 Atualmente, estou trabalhando com React-Js, Next-Js, React-Native-Js.
