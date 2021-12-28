@@ -1,19 +1,19 @@
 
-# Hi, I'm Leonardo Junkes <img width="30" src="/src/icones/coffe.png" />   <img width="30" src="/src/icones/pc.png"/>   <img width="30" src="/src/icones/code.png"/>
+# Olá, sou Leonardo Junkes <img width="30" src="data:image/png;base64,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" />   <img width="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASQAAACsCAMAAADlsyHfAAAAaVBMVEX///8AAAAUFBSKioqHh4dSUlJWVlZqamrLy8ukpKSPj48ICAiXl5ceHh68vLz7+/vs7OxFRUXFxcXl5eWhoaGvr6/Dw8MZGRmVlZUrKytNTU3g4ODr6+s4ODgxMTFcXFx5eXkkJCTW1tYxMiKxAAACpklEQVR4nO3d4XaaQBRF4RAoajGijUaLWtO+/0O2weJqIh1OHWYu1P39VeG6g0SUhQ8PAAAAAAAAAAAAAEJarrN0KLLds3WOVvtkWL5YB2lTWVf5oLAO0sY6ypWDdZEW1k2uLK2LtDhP9pTZOw480jfrKWqnYUeaW09RWxCpG5EERBIQSUAkAZEERBIQSUAkAZEERBIQSUAkAZEERBIQSUAkAZEERBIQSUAkAZEERBIQSfBCpHcW6ecru0k9S3Z9Sx+8TukxiZQl8a095rWIVBo0SrYeA99NpCePgYkkIJLALlI2i+V1tJFirjMba6RFxBXOiNSNSAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKASAIiCYgkIJKgl0i73saRjDPS97K3eeSVji5SkkyiGmmk+IhEJCIRqQWRBEQSEElAJMGaSIL1tohudJEMjO4A93Yb14vJ+cg60ibSmG/mZpFe/CIVm2ks9Z9zlJFiI5LAJtLCNZLzkXcUyXPHHZvPJRRv53wb6r44ax6rzB9eo0T5KHWNtHc+tEzz2CJ/19E4uSIN8tejDXx1RfK50ux/xL33nViPNwxTZ6SxHU4G0nG56Mue+7D65KNyDuG17NWP4JHcjZK0ud9zxx27TB0zON/P+i26F863km+ab859IyWzvx64zj2XHHpLWnZOcNl1P3o+lXAC/xxB6fz/f9a84Hbhn+1t8rCN9tLW0WxLQlATh6CN1G1je94zLo9Bn+uNiqB7pHJS5auL/PT+GOlUXW76dbffn9EuquJxUIrjLOgpWf+28MhnhwEAAAAAAAAAAAAAcCd+Ak6FT0ZC5gYcAAAAAElFTkSuQmCC"/>   <img width="30" src=""/>
 
    
 
 <p>
-<img width="200" src="/leo.jpg"/><img width="68.9%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
+<img width="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQGu-kQaNnaArA/profile-displayphoto-shrink_200_200/0/1640278774900?e=1646265600&v=beta&t=CbWzPUHYY-5rcVWIIHKSlCxt65dgJD7BCAndVfs2kT0"/><img width="68.9%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
 </p>
- Eu sou estudante de tecnologia, desde sempre apaixonado por este assunto, mas estudei administração , trabalhei no comércio por um longo período, e somente apósos 33 anos de idade descobri e entrei nesse maravilhoso mundo da programação.
- React,React-Native,Next-Js, Chakra-ui, Vercel, Node-ts JS TDD, Git & Github estão entre os assuntos e cursos que realizei e continuo a me preparar constantemente, cursos na Udemy,RocketSeat e alguns projetos realizados do zero em React-Js com Next-js juntamente com a galera da RocketSeat,criei um CRUD completo tanto o backend como o frontend, uma aplicação de cadastro de empresas e contatos para as mesmas,React-native criei um quizz de memorização de caracteres japonês, muito mais trabalhos e estudos encontras aqui mesmo no github, da uma 'fuçada' ai, confesso que não sou adepto e consumidor de redes sociais, abaixo detalhes de onde me encontrar: 
+ <pre>
+ Sou Desenvolvedor Junior, programo em React-js,Next-Js, Chakra-ui, deploy na Vercel, Node-ts,atualmente realizando o curso da Rocketseat, eu estudo e pratico muito, me preparo constantemente, confesso que não sou adepto e consumidor de redes sociais, abaixo detalhes de onde me encontrar: 
 
+</br>
 
-<br>
-🔭 Atualmente estou trabalhando como motorista.
+🔭 Atualmente estou trabalhando como Freelancer.
 
-🌱 Atualmente, estou trabalhando com React-Js, Next-Js, React-Native-Js.
+🌱 Atualmente, estou trabalhando com React-Js, Next-Js.
 
 👯 Estou procurando colaborar em alguns projetos.
 
@@ -23,21 +23,7 @@
 ⚡ Curiosidade: Hoje tenho 37 anos e adoro jogar videogame.
 
 ![](https://komarev.com/ghpvc/?username=Leojunkes&style=flat-square&color=blueviolet)
+</pre>
 
 
-<!--
-**Leojunkes/Leojunkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a driver.
-- 🌱 I’m currently learning React-Js and React-Native (Js).
-- 👯 I’m looking to collaborate on some projects.
-- 🤔 I’m looking for help with my studies.
-- 💬 Ask me about whatever you want.
-- 📫 How to reach me: email - leojn8@gmail.com
-			    - [Linkedin](https://www.linkedin.com/in/leonardo-junkes-nicolodelli-88089866/).
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Today 36 years old, and I Love playing video games.
--->
 
