@@ -4,23 +4,26 @@
    
 
 <p>
-<img width="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQGu-kQaNnaArA/profile-displayphoto-shrink_200_200/0/1640278774900?e=1646265600&v=beta&t=CbWzPUHYY-5rcVWIIHKSlCxt65dgJD7BCAndVfs2kT0"/><img width="68.9%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU">
+<img width="200" src="https://media.licdn.com/dms/image/D4D16AQFQ38zQ1_k7PQ/profile-displaybackgroundimage-shrink_350_1400/0/1719916828640?e=1727913600&v=beta&t=q9_G4NOLAGBMvGmgvgKagEzMvk1WKhE-kC0-PirTyLg">
 </p>
  <p>
- Sou Desenvolvedor Junior, programo em React-js,Next-Js, Chakra-ui, deploy na Vercel, Node-ts,atualmente realizando o curso da Rocketseat, eu estudo e pratico muito, me preparo constantemente, confesso que não sou adepto e consumidor de redes sociais, abaixo detalhes de onde me encontrar: 
+ Sou um desenvolvedor web capacitado e experiente, com habilidades também no ramo administrativo.
+Possuindo uma paixão por tecnologia e soluções criativas, sou capaz de criar aplicativos e websites elegantes e funcionais, bem como gerenciar eficientemente projetos e equipes. 
+
+HABILIDADES
+
+Web Design
+Ambiente Linux
+Pacote Office e Google
+Front-End
+Edição de vídeos
+HTML5, React-js, Next-js, Javascript, CSS
+Proatividade
+Inglês Intermediário Comunicativo
 
 </br>
 
-🔭 Atualmente estou trabalhando como Freelancer.
-
-🌱 Atualmente, estou trabalhando com React-Js, Next-Js.
-
-👯 Estou procurando colaborar em alguns projetos.
-
-📫 Vocês me encotram: email - leojn8@gmail.com
-                          - [Linkedin](https://www.linkedin.com/in/leonardo-junkes-nicolodelli-88089866/).
-
-⚡ Curiosidade: Hoje tenho 37 anos e adoro jogar videogame.
+🔭 Atualmente estou trabalhando na Pawsport - Gestão veterinária e MagiGard Studios.
 
 ![](https://komarev.com/ghpvc/?username=Leojunkes&style=flat-square&color=blueviolet)
 </p>
